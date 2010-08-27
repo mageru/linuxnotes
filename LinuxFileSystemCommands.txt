@@ -1,0 +1,8 @@
+chmod - change perms chmod u|g|o+rwe filename or chmod ### filename (1st #=user,2nd#=group,3rd=other)
+        1=--e 2=-w- 4=-r- 3=-we 5=r-e 6=rw- 7-rwe
+        
+getfacl
+ln
+mkdir
+pwd
+
